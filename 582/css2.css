@@ -1,0 +1,35 @@
+p{
+    color:red;
+}
+.highlight{
+    text-align:center;
+    color:red;
+}
+
+#header{
+    font-family:Arial, Helvetica, sans-serif;
+}
+input[type="text"]{
+    border:1px solid gray;
+}
+a:hover{
+    color:red;
+}
+box{
+    background-color:light gray;
+    width:300px;
+    height:100px;
+    padding:20px;
+    border:15px solid red;
+    margin
+}
+container{
+    dispaly:flex;
+flex-direction:row
+justify-content:center
+align-item:center;}
+item{
+    flex-grow:1;
+    flex-shink:1;
+    flex-basic:100px;
+}
